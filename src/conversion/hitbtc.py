@@ -4,7 +4,7 @@ import octobot.constants as constants
 import octobot.strategy_optimizer.fitness_parameter as fitness_parameter
 import octobot.strategy_optimizer.optimizer_filter as optimizer_filter
 import octobot.strategy_optimizer.optimizer_constraint as optimizer_constraint
-
+ 
 
 class OptimizerSettings:
     def __init__(self, settings_dict=None):
