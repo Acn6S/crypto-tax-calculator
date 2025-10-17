@@ -6,7 +6,7 @@ FreqAI is configured through the typical [Freqtrade config file](configuration.m
 
  Although there are plenty of additional parameters to choose from, as highlighted in the [parameter table](freqai-parameter-table.md#parameter-table), a FreqAI config must at minimum include the following parameters (the parameter values are only examples):
 
-```json
+```json 
     "freqai": {
         "enabled": true,
         "purge_old_models": 2,
