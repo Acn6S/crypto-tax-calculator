@@ -1,4 +1,4 @@
-
+ 
     def __init__(self, full_result, optimizer_run_data):
         self.full_result = full_result
         self.optimizer_run_data = optimizer_run_data
