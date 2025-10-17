@@ -3,7 +3,7 @@
 This page explains how to tune your strategy by finding the optimal
 parameters, a process called hyperparameter optimization. The bot uses algorithms included in the `optuna` package to accomplish this.
 The search will burn all your CPU cores, make your laptop sound like a fighter jet and still take a long time. 
-
+ 
 In general, the search for best parameters starts with a few random combinations (see [below](#reproducible-results) for more details) and then uses one of optuna's sampler algorithms (currently NSGAIIISampler) to quickly find a combination of parameters in the search hyperspace that minimizes the value of the [loss function](#loss-functions).
 
 Hyperopt requires historic data to be available, just as backtesting does (hyperopt runs backtesting many times with different parameters).
