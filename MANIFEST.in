@@ -1,5 +1,5 @@
 include config/crypto_tax_calculator.conf
-include config/tax_rules.json
+include config/tax_rules.json 
 include data/crypto_price_history.csv.gz
 include schemas/transaction_schema.json
 include examples/sample_binance.csv
