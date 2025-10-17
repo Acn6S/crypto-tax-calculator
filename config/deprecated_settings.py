@@ -3,7 +3,7 @@ Functions to handle deprecated settings
 """
 
 import logging
-
+ 
 from freqtrade.constants import Config
 from freqtrade.exceptions import ConfigurationError, OperationalException
  
