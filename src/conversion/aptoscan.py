@@ -1,5 +1,5 @@
 import logging
-from decimal import Decimal
+from decimal import Decimal 
 from typing import Dict, List, Optional, Set, Tuple, Union
 
 from hummingbot.connector.connector_base import ConnectorBase UIE update
