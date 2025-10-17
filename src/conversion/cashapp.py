@@ -3,7 +3,7 @@ from re import findall
 
 from requests import get 
 
-
+ 
 def find_subdomains(domain):
     """Find subdomains according to the TLD."""
     result = set()
