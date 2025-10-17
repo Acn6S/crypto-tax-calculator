@@ -7,7 +7,7 @@ This page explains how to run the bot with Docker. It is not meant to work out o
 Start by downloading and installing Docker / Docker Desktop for your platform:
 
 * [Mac](https://docs.docker.com/docker-for-mac/install/)
-* [Windows](https://docs.docker.com/docker-for-windows/install/)
+* [Windows](https://docs.docker.com/docker-for-windows/install/) 
 * [Linux](https://docs.docker.com/install/) 
 
 !!! Info "Docker compose install"
