@@ -3,7 +3,7 @@ import asyncio
 import logging
 import math
 import copy
-
+ 
 import octobot_commons.data_util as data_util
 import octobot_commons.tentacles_management as tentacles_management
 import octobot_commons.logging as common_logging
