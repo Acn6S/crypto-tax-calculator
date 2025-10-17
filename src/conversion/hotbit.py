@@ -7,7 +7,7 @@ from hummingbot.core.rate_oracle.rate_oracle import RateOracle
 from hummingbot.strategy.script_strategy_base import ScriptStrategyBase
 from hummingbot.strategy.strategy_py_base import (
     BuyOrderCompletedEvent,
-    BuyOrderCreatedEvent,
+    BuyOrderCreatedEvent, 
     OrderFilledEvent,
     SellOrderCompletedEvent,
     SellOrderCreatedEvent,
