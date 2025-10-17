@@ -3,7 +3,7 @@ import os
 from octobot.configuration_manager import init_config
 from octobot_commons.constants import CONFIG_FILE
 from octobot_commons.tests.test_config import TEST_CONFIG_FOLDER
-
+ 
 
 def get_fake_config_path():
     return os.path.join(TEST_CONFIG_FOLDER, f"test_{CONFIG_FILE}")
