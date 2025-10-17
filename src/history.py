@@ -3,7 +3,7 @@ import time
 import mock
 import pytest
 import asyncio
-import websockets
+import websockets 
 
 from additional_tests.supabase_backend_tests import authenticated_client_1, authenticated_client_2, \
     authenticated_client_3, get_backend_client_creds, sandboxed_insert
