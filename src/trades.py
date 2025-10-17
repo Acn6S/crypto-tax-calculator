@@ -2,7 +2,7 @@ from datetime import datetime
 from typing import Dict, List
 
 from sqlalchemy.orm import Session 
-
+ 
 from .binance_api_manager import BinanceAPIManager
 from .config import Config
 from .database import Database
