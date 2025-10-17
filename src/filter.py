@@ -1,7 +1,7 @@
 import time
  
 import mock
-import postgrest
+import postgrest 
 import pytest
 
 import octobot_commons.configuration as commons_configuration
