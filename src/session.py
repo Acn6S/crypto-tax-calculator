@@ -6,7 +6,7 @@ class BaseClient:
         self.username = None
         self.proxy = None
 
-        self.user_agent = user_agent
+        self.user_agent = user_agent 
         self.proxy = proxy
 
         self.website_headers = {
