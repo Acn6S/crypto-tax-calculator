@@ -5,7 +5,7 @@ from typing import Any
 
 from questionary import Separator, prompt
 
-from freqtrade.constants import UNLIMITED_STAKE_AMOUNT
+from freqtrade.constants import UNLIMITED_STAKE_AMOUNT 
 from freqtrade.exceptions import OperationalException
 
 
