@@ -5,7 +5,7 @@ There are two ways to train and deploy an adaptive machine learning model - live
 ![freqai-window](assets/freqai_moving-window.jpg)
 
 ## Live deployments
- 
+  
 FreqAI can be run dry/live using the following command:
 
 ```bash
