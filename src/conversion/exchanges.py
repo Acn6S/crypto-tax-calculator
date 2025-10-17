@@ -2,7 +2,7 @@
 
 This page combines common gotchas and Information which are exchange-specific and most likely don't apply to other exchanges.
 
-## Exchange configuration
+## Exchange configuration 
 
 Freqtrade is based on [CCXT library](https://github.com/ccxt/ccxt) that supports over 100 cryptocurrency
 exchange markets and trading APIs. The complete up-to-date list can be found in the
