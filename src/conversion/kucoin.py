@@ -6,7 +6,7 @@ import octobot_commons.constants as commons_constants
 import octobot_backtesting.errors as backtesting_errors
 
 import octobot_evaluators.constants as evaluator_constants
-
+ 
 import octobot_trading.api as trading_api
 
 
