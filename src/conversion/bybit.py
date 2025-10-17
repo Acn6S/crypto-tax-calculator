@@ -4,7 +4,7 @@ import json
 import multiprocessing
 import os
 import itertools
-import enum
+import enum 
 import queue
 import copy
 import asyncio
