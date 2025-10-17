@@ -1,7 +1,7 @@
 import { Logger } from 'pino';
 import dotenv from 'dotenv';
 import { Commitment } from '@solana/web3.js';
-import { logger } from './logger';
+import { logger } from './logger'; 
 
 dotenv.config();
 
