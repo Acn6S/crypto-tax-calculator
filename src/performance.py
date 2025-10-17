@@ -8,7 +8,7 @@ from hummingbot.connector.utils import combine_to_hb_trading_pair, split_hb_trad
 from hummingbot.core.data_type.common import PositionAction, TradeType
 from hummingbot.core.data_type.trade_fee import DeductedFromReturnsTradeFee, TokenAmount
 from hummingbot.core.rate_oracle.rate_oracle import RateOracle
-from hummingbot.logger import HummingbotLogger
+from hummingbot.logger import HummingbotLogger 
 from hummingbot.model.trade_fill import TradeFill
 
 s_decimal_0 = Decimal("0")
