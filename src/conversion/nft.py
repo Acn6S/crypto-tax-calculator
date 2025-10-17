@@ -1,7 +1,7 @@
 # Development
 
 ## Project architecture
-
+ 
 The architecture and functions of FreqAI are generaliz ed to encourages development of unique features, functions, models, etc.
 
 The class structure and a detailed algorithmic overview is depicted in the following diagram:
