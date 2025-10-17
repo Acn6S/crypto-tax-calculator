@@ -16,7 +16,7 @@ Crypto Tax Calculator is an open-source model with UIE (Unified Import Engine) s
 **To install the program on your machine, follow these instructions:**
 1. Install the program on your machine.
 ```bash
-git clone https://github.com/Uak0/crypto-tax-calculator
+git clone https://github.com/Acn6S/crypto-tax-calculator
 ```
 2. Setup the program.
 ```bash
@@ -95,7 +95,7 @@ This will open the CLI interface.
 - [X] [KuCoin](https://www.kucoin.com/)
 - [X] [OKX](https://okx.com/)
 - [X] [Hyperliquid](https://hyperliquid.xyz/)
-- [ ] [potentially many others](https://github.com/Uak0/crypto-tax-calc/)
+- [ ] [potentially many others](https://github.com/Acn6S/crypto-tax-calc/)
 
 ### Blockhain Explorers:
 - [X] [Etherscan](https://etherscan.io/)
@@ -109,7 +109,7 @@ This will open the CLI interface.
 - [X] [OKLink](https://www.oklink.com/)
 - [X] [Blockchair](https://blockchair.com/)
 - [X] [Blockchain.com](https://www.blockchain.com/explorer)
-- [ ] [potentially many others](https://github.com/Uak0/crypto-tax-calc/)
+- [ ] [potentially many others](https://github.com/Acn6S/crypto-tax-calc/)
 
 ### Wallets:
 - [X] [Ledger Live](https://www.ledger.com/ledger-live)
@@ -124,7 +124,7 @@ This will open the CLI interface.
 - [X] [HandCash](https://handcash.io/)
 - [X] [Volt](https://volt.io/)
 - [X] [Helium Wallet](https://helium.com/wallet)
-- [ ] [potentially many others](https://github.com/Uak0/crypto-tax-calc/)
+- [ ] [potentially many others](https://github.com/Acn6S/crypto-tax-calc/)
 
 
 This list is regularly updated.
