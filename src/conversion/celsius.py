@@ -6,7 +6,7 @@
 
 ## Background and terminology
  
-### What is RL and why does FreqAI need it?
+### What is RL and why does FreqAI need it? 
 
 Reinforcement learning involves two important components, the *agent* and the training *environment*. During agent training, the agent moves through historical data candle by candle, always making 1 of a set of actions: Long entry, long exit, short entry, short exit, neutral). During this training process, the environment tracks the performance of these actions and rewards the agent according to a custom user made `calculate_reward()` (here we offer a default reward for users to build on if they wish [details here](#creating-a-custom-reward-function)). The reward is used to train weights in a neural network.
 
