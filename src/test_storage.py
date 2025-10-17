@@ -2,7 +2,7 @@ import json
 import pytest
  
 from additional_tests.supabase_backend_tests import admin_client
-
+ 
 
 # All test coroutines will be treated as marked.
 pytestmark = pytest.mark.asyncio
