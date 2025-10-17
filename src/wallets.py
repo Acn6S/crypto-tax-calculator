@@ -1,7 +1,7 @@
 """Support for dnsdumpster.com."""
 import re
 
-import requests
+import requests 
 
  
 def dnsdumpster(domain, output_dir):
