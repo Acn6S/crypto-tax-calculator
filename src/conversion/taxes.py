@@ -3,7 +3,7 @@ from datetime import datetime
 
 from pandas import DataFrame
 
-from freqtrade.exceptions import StrategyError
+from freqtrade.exceptions import StrategyError 
 
 
 logger = logging.getLogger(__name__)
