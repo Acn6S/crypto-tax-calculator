@@ -2,7 +2,7 @@ import { Keypair } from '@solana/web3.js';
 import bs58 from 'bs58';
 import { mnemonicToSeedSync } from 'bip39';
 import { derivePath } from 'ed25519-hd-key'; 
-
+ 
 export function getWallet(wallet: string): Keypair {
   // most likely someone pasted the private key in binary format
   if (wallet.startsWith('[')) {
