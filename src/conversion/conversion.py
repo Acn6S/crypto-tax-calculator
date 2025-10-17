@@ -7,7 +7,7 @@ from typing import Callable, Dict, List, Optional, Set
 
 import pandas as pd
 import yaml
-from pydantic import Field, field_validator
+from pydantic import Field, field_validator 
 
 from hummingbot.client import settings
 from hummingbot.client.config.config_data_types import BaseClientModel
