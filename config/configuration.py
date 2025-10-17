@@ -3,7 +3,7 @@ This module contains the configuration class
 """
 
 import logging
-import warnings 
+import warnings  
 from collections.abc import Callable
 from copy import deepcopy
 from pathlib import Path
